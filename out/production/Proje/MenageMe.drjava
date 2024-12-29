@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="MonthlyCalendar.java" package="" timestamp="25-Jul-2018 06:56:01">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="file.txt" package="" timestamp="25-Jul-2018 07:52:35">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="YearlyPage.java" package="" timestamp="25-Jul-2018 03:43:54">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="CaloriePage.java" package="" timestamp="25-Jul-2018 06:59:03">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="Goal.java" package="" timestamp="24-Jul-2018 21:18:46">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="GoalPage.java" package="" timestamp="25-Jul-2018 06:15:58">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="HomePage.java" package="" timestamp="25-Jul-2018 06:46:19">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="LoginPanel.java" package="" timestamp="25-Jul-2018 06:56:01">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="SignUpPanel.java" package="" timestamp="25-Jul-2018 06:56:01">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="SummaryPage.java" package="" timestamp="25-Jul-2018 05:38:30">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="Task.java" package="" timestamp="25-Jul-2018 01:55:26">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="Timekeeper.java" package="" timestamp="25-Jul-2018 06:19:58">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="TodayPage.java" package="" timestamp="25-Jul-2018 06:02:44">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="ToDo.java" package="" timestamp="23-Jul-2018 15:45:00">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="User.java" package="" timestamp="25-Jul-2018 04:43:03">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="UserCollection.java" package="" timestamp="25-Jul-2018 06:56:01">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="ManageMe.java" package="" timestamp="25-Jul-2018 07:17:09">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+      <file name="MainFrame.java" package="" timestamp="25-Jul-2018 07:52:06">
+        <select from="1471" to="1471"/>
+        <scroll column="381" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
